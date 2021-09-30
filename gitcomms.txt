@@ -2,3 +2,7 @@ Git commands
 git init - start the repository
 git add [file name] - add files to be added to repository || git add . - adds all files
 git commit -m "Message here" - commits new files and submits changes
+git status - pulls up any commits made
+git log - will pull up a log of what has changed between commits
+git remote add origin [repo link] - will add an origin to your repo so you can make commits to it online
+git push -u origin master - will push changes to the master branch in your github repo online. 
