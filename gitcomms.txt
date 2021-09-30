@@ -1,2 +1,4 @@
 Git commands
 git init - start the repository
+git add [file name] - add files to be added to repository || git add . - adds all files
+git commit -m "Message here" - commits new files and submits changes
